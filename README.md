@@ -14,9 +14,9 @@
 
 ### 📊 Live Performance Stats
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Samaun_Mahmud)
 
-*(Note: Replace `YOUR_LEETCODE_USERNAME` in the link above with your actual LeetCode handle)*
+
 
 </div>
 

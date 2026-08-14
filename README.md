@@ -2,27 +2,32 @@
 
 # ⚔️ LEETCODE 365: THE DSA GRIND
 
-**Transforming algorithmic logic into clean, production-ready code — one problem a day.**
+**Transforming algorithmic logic into clean, production-ready code — one problem at a day.**
+
+> *"Consistency is what transforms average into excellence."*
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![GitHub Activity](https://img.shields.io/badge/Status-Active_Grind-00E676?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samaunmahmud/LeetCode-365)
+[![Repository Size](https://img.shields.io/github/repo-size/samaunmahmud/LeetCode-365?style=for-the-badge&color=blue)](https://github.com/samaunmahmud/LeetCode-365)
 
 ---
 
 ### 📊 Live Performance Stats
 
-![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=tokyonight)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)
+
+*(Note: Replace `YOUR_LEETCODE_USERNAME` in the link above with your actual LeetCode handle)*
 
 </div>
 
 ---
 
-## 🎯 The Mission
+## 🎯 The Mission & Methodology
 
-This repository is my personal algorithmic lab. I am documenting my journey through Data Structures and Algorithms to build intuitive problem-solving skills, optimize time/space complexity ($O(N)$ mindset), and prepare for high-impact engineering roles.
+This repository serves as my algorithmic laboratory and technical notebook. I am documenting my daily journey through Data Structures and Algorithms to build intuitive problem-solving skills, master optimal time/space complexity tradeoffs, and prepare for software engineering technical interviews.
 
 ```text
   ┌────────────────┐     ┌────────────────┐     ┌────────────────┐
   │  Analyze Core  │ ──> │  Optimize Time │ ──> │ Write Clean    │
-  │  Pattern       │     │  & Space ($O$) │     │ Executable Code│
+  │  Pattern       │     │  & Space O(N)  │     │ Executable Code│
   └────────────────┘     └────────────────┘     └────────────────┘

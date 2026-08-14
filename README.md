@@ -6,7 +6,7 @@
 
 > *"Consistency is what transforms average into excellence."*
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Samaun_Mahmud&theme=dark)
 [![GitHub Activity](https://img.shields.io/badge/Status-Active_Grind-00E676?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samaunmahmud/LeetCode-365)
 [![Repository Size](https://img.shields.io/github/repo-size/samaunmahmud/LeetCode-365?style=for-the-badge&color=blue)](https://github.com/samaunmahmud/LeetCode-365)
 

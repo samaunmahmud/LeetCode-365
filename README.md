@@ -29,3 +29,15 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
   │  Analyze Core  │ ──> │  Optimize Time │ ──> │ Write Clean    │
   │  Pattern       │     │  & Space O(N)  │     │ Executable Code│
   └────────────────┘     └────────────────┘     └────────────────┘
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/samaunmahmud/LeetCode-365/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/samaunmahmud/LeetCode-365/tree/master/1768-merge-strings-alternately) |
+<!---LeetCode Topics End-->

@@ -63,6 +63,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0238-product-of-array-except-self](https://github.com/samaunmahmud/LeetCode-365/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/samaunmahmud/LeetCode-365/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samaunmahmud/LeetCode-365/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/samaunmahmud/LeetCode-365/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -71,4 +72,8 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samaunmahmud/LeetCode-365/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/samaunmahmud/LeetCode-365/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->

@@ -40,6 +40,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0283-move-zeroes](https://github.com/samaunmahmud/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/samaunmahmud/LeetCode-365/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/samaunmahmud/LeetCode-365/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -70,6 +71,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0605-can-place-flowers](https://github.com/samaunmahmud/LeetCode-365/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/samaunmahmud/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samaunmahmud/LeetCode-365/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/samaunmahmud/LeetCode-365/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
@@ -83,6 +85,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Hash Table
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/samaunmahmud/LeetCode-365/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window
 |  |
@@ -92,4 +95,8 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/samaunmahmud/LeetCode-365/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->

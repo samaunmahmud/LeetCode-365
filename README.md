@@ -35,6 +35,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samaunmahmud/LeetCode-365/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/samaunmahmud/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0345-reverse-vowels-of-a-string) |
@@ -63,6 +64,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samaunmahmud/LeetCode-365/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/samaunmahmud/LeetCode-365/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samaunmahmud/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/samaunmahmud/LeetCode-365/tree/master/0605-can-place-flowers) |
@@ -72,6 +74,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/samaunmahmud/LeetCode-365/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/samaunmahmud/LeetCode-365/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |

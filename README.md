@@ -51,6 +51,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [1071-greatest-common-divisor-of-strings](https://github.com/samaunmahmud/LeetCode-365/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samaunmahmud/LeetCode-365/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/samaunmahmud/LeetCode-365/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +119,9 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

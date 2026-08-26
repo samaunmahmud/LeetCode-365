@@ -78,6 +78,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [1207-unique-number-of-occurrences](https://github.com/samaunmahmud/LeetCode-365/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samaunmahmud/LeetCode-365/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/samaunmahmud/LeetCode-365/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/samaunmahmud/LeetCode-365/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/2352-equal-row-and-column-pairs) |
 ## Greedy
@@ -89,6 +90,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/samaunmahmud/LeetCode-365/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/samaunmahmud/LeetCode-365/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |

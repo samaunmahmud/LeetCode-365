@@ -70,6 +70,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samaunmahmud/LeetCode-365/tree/master/0011-container-with-most-water) |
+| [0162-find-peak-element](https://github.com/samaunmahmud/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/samaunmahmud/LeetCode-365/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samaunmahmud/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/samaunmahmud/LeetCode-365/tree/master/0605-can-place-flowers) |
@@ -134,6 +135,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/samaunmahmud/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/samaunmahmud/LeetCode-365/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |

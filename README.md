@@ -141,4 +141,16 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/samaunmahmud/LeetCode-365/tree/master/0374-guess-number-higher-or-lower) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/samaunmahmud/LeetCode-365/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/samaunmahmud/LeetCode-365/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/samaunmahmud/LeetCode-365/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

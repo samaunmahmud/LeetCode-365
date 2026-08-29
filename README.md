@@ -110,6 +110,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/samaunmahmud/LeetCode-365/tree/master/0392-is-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +163,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/samaunmahmud/LeetCode-365/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -169,6 +171,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/samaunmahmud/LeetCode-365/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -181,5 +184,10 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/samaunmahmud/LeetCode-365/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1448-count-good-nodes-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->

@@ -160,12 +160,14 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/samaunmahmud/LeetCode-365/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/samaunmahmud/LeetCode-365/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -177,6 +179,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/samaunmahmud/LeetCode-365/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->

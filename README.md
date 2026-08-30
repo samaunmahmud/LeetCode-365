@@ -210,4 +210,12 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/samaunmahmud/LeetCode-365/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0700-search-in-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/samaunmahmud/LeetCode-365/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/samaunmahmud/LeetCode-365/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

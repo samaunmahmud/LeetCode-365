@@ -163,6 +163,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/samaunmahmud/LeetCode-365/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/samaunmahmud/LeetCode-365/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -187,6 +188,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/samaunmahmud/LeetCode-365/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/samaunmahmud/LeetCode-365/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -206,5 +208,6 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/samaunmahmud/LeetCode-365/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

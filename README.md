@@ -79,6 +79,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0605-can-place-flowers](https://github.com/samaunmahmud/LeetCode-365/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/samaunmahmud/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/samaunmahmud/LeetCode-365/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/samaunmahmud/LeetCode-365/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/samaunmahmud/LeetCode-365/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samaunmahmud/LeetCode-365/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -143,6 +144,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | ------- |
 | [0162-find-peak-element](https://github.com/samaunmahmud/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/samaunmahmud/LeetCode-365/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/samaunmahmud/LeetCode-365/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |

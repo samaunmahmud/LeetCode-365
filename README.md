@@ -43,6 +43,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0443-string-compression](https://github.com/samaunmahmud/LeetCode-365/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/samaunmahmud/LeetCode-365/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/samaunmahmud/LeetCode-365/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/samaunmahmud/LeetCode-365/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/samaunmahmud/LeetCode-365/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

@@ -215,6 +215,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/samaunmahmud/LeetCode-365/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/samaunmahmud/LeetCode-365/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/samaunmahmud/LeetCode-365/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |

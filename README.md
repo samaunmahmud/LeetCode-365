@@ -82,6 +82,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0605-can-place-flowers](https://github.com/samaunmahmud/LeetCode-365/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/samaunmahmud/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/samaunmahmud/LeetCode-365/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/samaunmahmud/LeetCode-365/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/samaunmahmud/LeetCode-365/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/samaunmahmud/LeetCode-365/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -117,6 +118,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/samaunmahmud/LeetCode-365/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Sorting

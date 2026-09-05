@@ -76,6 +76,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | ------- |
 | [0011-container-with-most-water](https://github.com/samaunmahmud/LeetCode-365/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/samaunmahmud/LeetCode-365/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/samaunmahmud/LeetCode-365/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samaunmahmud/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/samaunmahmud/LeetCode-365/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samaunmahmud/LeetCode-365/tree/master/0283-move-zeroes) |
@@ -117,6 +118,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/samaunmahmud/LeetCode-365/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/samaunmahmud/LeetCode-365/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/1137-n-th-tribonacci-number) |

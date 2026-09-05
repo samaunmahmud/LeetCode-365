@@ -119,6 +119,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/samaunmahmud/LeetCode-365/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/samaunmahmud/LeetCode-365/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/samaunmahmud/LeetCode-365/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/samaunmahmud/LeetCode-365/tree/master/0790-domino-and-tromino-tiling) |
@@ -255,4 +256,8 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/1137-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/samaunmahmud/LeetCode-365/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

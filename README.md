@@ -75,6 +75,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samaunmahmud/LeetCode-365/tree/master/0011-container-with-most-water) |
+| [0136-single-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/samaunmahmud/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/samaunmahmud/LeetCode-365/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samaunmahmud/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
@@ -259,5 +260,6 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/samaunmahmud/LeetCode-365/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

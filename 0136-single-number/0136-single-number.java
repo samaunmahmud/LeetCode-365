@@ -1,5 +1,23 @@
 class Solution {
     public int singleNumber(int[] nums) {
+
+        int single =0;
+
+        for(int i: nums){
+            single = single^i;
+        }
+
+        return single;
+        
+    }
+}
+
+
+
+/**
+
+class Solution {
+    public int singleNumber(int[] nums) {
         if(nums.length==1){
             return nums[0];
         }
@@ -20,4 +38,4 @@ class Solution {
         return nums[nums.length-1];
         
     }
-}
+} */

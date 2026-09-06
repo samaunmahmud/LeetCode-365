@@ -11,7 +11,13 @@ class Solution {
         
     }
 }
-
+/**
+     * Explanation of how the XOR operator (^) works:
+     * - Self-Cancellation (x ^ x = 0): Any number XORed with itself becomes 0.
+     * - Identity (x ^ 0 = x): Any number XORed with 0 stays itself.
+     * - Cancellation Effect: Because duplicate numbers pair up and cancel out to 0, 
+     *   only the unique single number remains at the end.
+     */
 
 
 /**

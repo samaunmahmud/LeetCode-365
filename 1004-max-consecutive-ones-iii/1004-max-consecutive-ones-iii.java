@@ -31,3 +31,20 @@ class Solution {
 
     
 }
+
+
+/**
+ * Variable-Size Sliding Window Algorithm for Max Consecutive Ones III:
+ * 
+ * 1. Expand the Window:
+ *    - Iterate with the 'right' pointer across the array. 
+ *    - If we encounter a 0, increment our 'zeroCount' (representing a used flip).
+ * 
+ * 2. Shrink the Window:
+ *    - If 'zeroCount' exceeds 'k', the window becomes invalid. 
+ *    - Move the 'left' pointer forward to shrink the window until 'zeroCount' drops back to 'k'.
+ *    - If the element leaving at the 'left' pointer is a 0, decrement 'zeroCount'.
+ * 
+ * 3. Track Maximum Length:
+ *    - At each valid step, update 'maxLength' with the current window size (right - left + 1).
+ */

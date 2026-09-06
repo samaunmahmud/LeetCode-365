@@ -262,4 +262,5 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | ------- |
 | [0136-single-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/samaunmahmud/LeetCode-365/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/samaunmahmud/LeetCode-365/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->

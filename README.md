@@ -191,6 +191,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/samaunmahmud/LeetCode-365/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/samaunmahmud/LeetCode-365/tree/master/0450-delete-node-in-a-bst) |
@@ -202,6 +203,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/samaunmahmud/LeetCode-365/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/samaunmahmud/LeetCode-365/tree/master/0872-leaf-similar-trees) |
@@ -211,11 +213,13 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/samaunmahmud/LeetCode-365/tree/master/0199-binary-tree-right-side-view) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/samaunmahmud/LeetCode-365/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/samaunmahmud/LeetCode-365/tree/master/0450-delete-node-in-a-bst) |

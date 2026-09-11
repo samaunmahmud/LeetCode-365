@@ -82,6 +82,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0162-find-peak-element](https://github.com/samaunmahmud/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/samaunmahmud/LeetCode-365/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samaunmahmud/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/samaunmahmud/LeetCode-365/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samaunmahmud/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/samaunmahmud/LeetCode-365/tree/master/0605-can-place-flowers) |
@@ -298,6 +299,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0216-combination-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0216-combination-sum-iii) |
 ## Ordered Set
 |  |
 | ------- |

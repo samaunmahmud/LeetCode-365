@@ -54,6 +54,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0345-reverse-vowels-of-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/samaunmahmud/LeetCode-365/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/samaunmahmud/LeetCode-365/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/samaunmahmud/LeetCode-365/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/samaunmahmud/LeetCode-365/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -85,6 +86,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0216-combination-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/samaunmahmud/LeetCode-365/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samaunmahmud/LeetCode-365/tree/master/0283-move-zeroes) |
+| [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/samaunmahmud/LeetCode-365/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/samaunmahmud/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/samaunmahmud/LeetCode-365/tree/master/0724-find-pivot-index) |
@@ -216,6 +218,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/samaunmahmud/LeetCode-365/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/samaunmahmud/LeetCode-365/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/samaunmahmud/LeetCode-365/tree/master/0841-keys-and-rooms) |
@@ -229,6 +232,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/samaunmahmud/LeetCode-365/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/samaunmahmud/LeetCode-365/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/samaunmahmud/LeetCode-365/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/samaunmahmud/LeetCode-365/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -313,11 +317,25 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/samaunmahmud/LeetCode-365/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/samaunmahmud/LeetCode-365/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/samaunmahmud/LeetCode-365/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/samaunmahmud/LeetCode-365/tree/master/0547-number-of-provinces) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->

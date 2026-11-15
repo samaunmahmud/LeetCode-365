@@ -78,6 +78,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samaunmahmud/LeetCode-365/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/samaunmahmud/LeetCode-365/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/samaunmahmud/LeetCode-365/tree/master/0162-find-peak-element) |
@@ -120,6 +121,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samaunmahmud/LeetCode-365/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1207-unique-number-of-occurrences](https://github.com/samaunmahmud/LeetCode-365/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samaunmahmud/LeetCode-365/tree/master/1657-determine-if-two-strings-are-close) |

@@ -353,4 +353,8 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/samaunmahmud/LeetCode-365/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/samaunmahmud/LeetCode-365/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

@@ -81,6 +81,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | ------- |
 | [0001-two-sum](https://github.com/samaunmahmud/LeetCode-365/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/samaunmahmud/LeetCode-365/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/samaunmahmud/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/samaunmahmud/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/samaunmahmud/LeetCode-365/tree/master/0198-house-robber) |
@@ -140,6 +141,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/samaunmahmud/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/samaunmahmud/LeetCode-365/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/samaunmahmud/LeetCode-365/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/samaunmahmud/LeetCode-365/tree/master/0392-is-subsequence) |

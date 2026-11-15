@@ -50,6 +50,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/samaunmahmud/LeetCode-365/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/samaunmahmud/LeetCode-365/tree/master/0392-is-subsequence) |
@@ -172,6 +173,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/samaunmahmud/LeetCode-365/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/samaunmahmud/LeetCode-365/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/samaunmahmud/LeetCode-365/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -340,4 +342,8 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/samaunmahmud/LeetCode-365/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

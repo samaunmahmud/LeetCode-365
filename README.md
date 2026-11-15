@@ -36,6 +36,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/samaunmahmud/LeetCode-365/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/samaunmahmud/LeetCode-365/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/samaunmahmud/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0345-reverse-vowels-of-a-string) |
@@ -51,6 +52,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/samaunmahmud/LeetCode-365/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/samaunmahmud/LeetCode-365/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/samaunmahmud/LeetCode-365/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/samaunmahmud/LeetCode-365/tree/master/0392-is-subsequence) |

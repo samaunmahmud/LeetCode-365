@@ -362,5 +362,6 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0182-duplicate-emails](https://github.com/samaunmahmud/LeetCode-365/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/samaunmahmud/LeetCode-365/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/samaunmahmud/LeetCode-365/tree/master/0184-department-highest-salary) |
+| [1193-monthly-transactions-i](https://github.com/samaunmahmud/LeetCode-365/tree/master/1193-monthly-transactions-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/samaunmahmud/LeetCode-365/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->

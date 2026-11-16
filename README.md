@@ -90,6 +90,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0198-house-robber](https://github.com/samaunmahmud/LeetCode-365/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samaunmahmud/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/samaunmahmud/LeetCode-365/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/samaunmahmud/LeetCode-365/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/samaunmahmud/LeetCode-365/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
@@ -129,6 +130,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | ------- |
 | [0001-two-sum](https://github.com/samaunmahmud/LeetCode-365/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/samaunmahmud/LeetCode-365/tree/master/0217-contains-duplicate) |
 | [1207-unique-number-of-occurrences](https://github.com/samaunmahmud/LeetCode-365/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samaunmahmud/LeetCode-365/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -159,6 +161,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/samaunmahmud/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/samaunmahmud/LeetCode-365/tree/master/0217-contains-duplicate) |
 | [1657-determine-if-two-strings-are-close](https://github.com/samaunmahmud/LeetCode-365/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2542-maximum-subsequence-score](https://github.com/samaunmahmud/LeetCode-365/tree/master/2542-maximum-subsequence-score) |

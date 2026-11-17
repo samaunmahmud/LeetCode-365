@@ -96,6 +96,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | [0399-evaluate-division](https://github.com/samaunmahmud/LeetCode-365/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/samaunmahmud/LeetCode-365/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/samaunmahmud/LeetCode-365/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/samaunmahmud/LeetCode-365/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/samaunmahmud/LeetCode-365/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/samaunmahmud/LeetCode-365/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/samaunmahmud/LeetCode-365/tree/master/0746-min-cost-climbing-stairs) |
@@ -193,6 +194,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | ------- |
 | [0162-find-peak-element](https://github.com/samaunmahmud/LeetCode-365/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/samaunmahmud/LeetCode-365/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/samaunmahmud/LeetCode-365/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/samaunmahmud/LeetCode-365/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/samaunmahmud/LeetCode-365/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive

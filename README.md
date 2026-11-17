@@ -83,6 +83,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 | ------- |
 | [0001-two-sum](https://github.com/samaunmahmud/LeetCode-365/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/samaunmahmud/LeetCode-365/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/samaunmahmud/LeetCode-365/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samaunmahmud/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/samaunmahmud/LeetCode-365/tree/master/0136-single-number) |
@@ -148,6 +149,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/samaunmahmud/LeetCode-365/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samaunmahmud/LeetCode-365/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samaunmahmud/LeetCode-365/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/samaunmahmud/LeetCode-365/tree/master/0198-house-robber) |
@@ -299,6 +301,7 @@ This repository serves as my algorithmic laboratory and technical notebook. I am
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/samaunmahmud/LeetCode-365/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/samaunmahmud/LeetCode-365/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
